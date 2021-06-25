@@ -10,7 +10,7 @@ public class Palindrome {
 		
 		
 		
-String reverse="";
+String reverse="shabnamshabbu";
 Scanner a=new Scanner(System.in);
 System.out.println("enter the palendrome value");
 	String b=a.nextLine();
